@@ -4,4 +4,4 @@ Md Shakhawat Hossain (ID: 2131273642)
 Dihan Shahriar (ID: 2031839042)
 Sayed Rimon Ahamed  (ID: 2031521642)
 
-<img width="948" height="452" alt="image" src="https://github.com/user-attachments/assets/c056a8ed-1a4c-4184-8948-73096d1c2b5d" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/25565fac-7c74-44f5-8108-69191395bf92" />
