@@ -12,8 +12,9 @@ Architecture: Service layer for data access, Context for app state, modular comp
 
 Prerequisites:
 
-Node.js 18+ and npm
-A Supabase project (URL + anon key)
+Node.js 18+ 
+
+Supabase env File (URL + anon key)
 
 Install dependencies
 
